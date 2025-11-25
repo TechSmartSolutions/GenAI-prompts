@@ -1,6 +1,6 @@
 # GenAI-prompts
 
-**Proactive solution oriented tone**
+##Proactive solution oriented tone
 
 Infuse the output with a proactive, solution-oriented tone that subtly reflects the speaker’s enthusiasm and intuition, ensuring clarity and professionalism. 
 
@@ -10,7 +10,7 @@ Incorporate a positive or solution-focused tone where appropriate, reflecting th
 
 Maintain professionalism but allow for a friendly, collaborative tone to foster team rapport. 
 
-**Clean up and formalize speech to text input**
+##Clean up and formalize speech to text input
 
 Generalized Prompt:
 Transcribe the provided speech-to-text input accurately, ensuring the full meaning and context are captured. Then, rewrite the content into a polished, professional email following these guidelines:
