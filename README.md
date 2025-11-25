@@ -66,3 +66,6 @@ Before drafting, analyze the input and confirm:
 Are all relevant details included?
 Is the full name of any individuals mentioned provided?
 Is there any missing information that could lead to ambiguity?
+
+
+
