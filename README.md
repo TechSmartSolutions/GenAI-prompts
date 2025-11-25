@@ -38,3 +38,16 @@ Output:
 Provide only thefinal rewritten email, free of commentary or transcription artifacts.
 Input:
 [Insert speech-to-text content here]
+
+## Weekly update summary compiler
+
+Based off the provided file, can you summarize my work for the weekly update
+It should be easy to read, dates are not required, one line per item.
+output should be two bullet lists using the following headers:
+General description (value) of what was accomplished
+List of task number and short description.
+
+
+## Universal Prompt for Difficult Communication
+
+I need to draft a concise, professional response to the message below. The tone should be neutral, respectful, and clear, leaving no room for misunderstanding or offense. Avoid emotional language and keep the message focused on facts and next steps. Ensure the response sounds collaborative and courteous.
