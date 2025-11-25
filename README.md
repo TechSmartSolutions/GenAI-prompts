@@ -58,7 +58,7 @@ Sound collaborative and courteous while focusing on facts and next steps.
 
 Please format the response so it can be adapted for email or chat.
 
-### ✅ Optional Add-On for Thoroughness
+#### Optional Add-On for Thoroughness
 If you want to check completeness before drafting, you can add:
 
 Before drafting, analyze the input and confirm:
