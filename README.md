@@ -47,7 +47,22 @@ output should be two bullet lists using the following headers:
 General description (value) of what was accomplished
 List of task number and short description.
 
+✅ ## Improved Universal Prompt for Difficult Communication
 
-## Universal Prompt for Difficult Communication
+I need to draft a message that is clear, concise, and professional. The tone should be neutral, respectful, and free of emotional language. The message must:
 
-I need to draft a concise, professional response to the message below. The tone should be neutral, respectful, and clear, leaving no room for misunderstanding or offense. Avoid emotional language and keep the message focused on facts and next steps. Ensure the response sounds collaborative and courteous.
+Include all relevant details and context to avoid ambiguity.
+Be logically structured and easy to follow.
+Leave no room for misunderstanding or offense.
+Sound collaborative and courteous while focusing on facts and next steps.
+
+Please format the response so it can be adapted for email or chat.
+
+✅ ### Optional Add-On for Thoroughness
+If you want to check completeness before drafting, you can add:
+
+Before drafting, analyze the input and confirm:
+
+Are all relevant details included?
+Is the full name of any individuals mentioned provided?
+Is there any missing information that could lead to ambiguity?
