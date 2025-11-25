@@ -47,7 +47,7 @@ output should be two bullet lists using the following headers:
 General description (value) of what was accomplished
 List of task number and short description.
 
-✅ ## Improved Universal Prompt for Difficult Communication
+## ✅ Improved Universal Prompt for Difficult Communication
 
 I need to draft a message that is clear, concise, and professional. The tone should be neutral, respectful, and free of emotional language. The message must:
 
@@ -58,7 +58,7 @@ Sound collaborative and courteous while focusing on facts and next steps.
 
 Please format the response so it can be adapted for email or chat.
 
-✅ ### Optional Add-On for Thoroughness
+### ✅ Optional Add-On for Thoroughness
 If you want to check completeness before drafting, you can add:
 
 Before drafting, analyze the input and confirm:
